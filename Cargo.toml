@@ -2,6 +2,7 @@
 name = "myapp"
 description = "This is my application(Rust)"
 homepage = "Nothing"
+repository = "git@github.com:TakashiKusachi/gtk_practice.git"
 version = "0.1.0"
 edition = "2021"
 
