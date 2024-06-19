@@ -1,0 +1,9 @@
+[package]
+name = "myapp"
+description = "This is my application(Rust)"
+homepage = "Nothing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gtk = "0.18.1"
